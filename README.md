@@ -1,5 +1,5 @@
 # Proyecto Integrador 💻
-TRABAJO FINAL PREVIA LA OBTENCIÓN DEL TÍTULO PROFESIONAL
+TRABAJO FINAL PREVIO A LA OBTENCIÓN DEL TÍTULO PROFESIONAL
 ## Integrante:👦
 - Freddy Guapi
 # Documentación :notebook:
