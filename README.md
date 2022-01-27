@@ -2,7 +2,7 @@
 TRABAJO FINAL PREVIA LA OBTENCIÓN DEL TÍTULO PROFESIONAL
 ## Integrante:👦
 - Freddy Guapi
-# Documentación 📕
+# Documentación :notebook:
 - Informe Técnico
 - Plan Tesis
 # Video Explicativo ⏯️
